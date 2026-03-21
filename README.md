@@ -1,0 +1,1 @@
+SecureNote is an Android mobile application developed in kotlin designed to offer a modern and secure solution for managing sensitive personal notes. In a context where smartphones contain private information, protecting local data becomes essential. SecureNote addresses this issue by offering a secure authentication system for users.
